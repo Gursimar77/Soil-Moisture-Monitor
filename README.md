@@ -24,8 +24,5 @@ The code uses the **analogRead()** function to read moisture values and compares
 3. Open the Serial Monitor to view the moisture level.
 4. If the moisture is too low, the LED and Buzzer will alert you.
 
-## Project Video:
-[Include a video link if you make one!]
-
 ## License:
 This project is open-source and free to use.
